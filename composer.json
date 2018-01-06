@@ -1,5 +1,15 @@
 {
-   "autoload":{
+        "name":"createpackage/json",
+	"description":"php test",
+	"license":"MIT",
+	"authors":[
+		{
+		"name":"test",
+		"email":"test123456@163.com"	
+		}
+	],
+	"minimum-stability":"stable",
+	"autoload":{
 	   "psr-4":{"createpackage\\":"src/"}
 	   },
 	 "require":{
